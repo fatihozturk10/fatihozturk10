@@ -6,7 +6,7 @@ Yapay zeka, görüntü/ses işleme ve oyun programlama konularına tutkuyla bağ
 ### 🚀 Şu Anda Neler Yapıyorum?
 - 🕹️ **Unity ve C#** ile çok oyunculu ve parti tabanlı bir oyun projesi geliştiriyorum.
 - 👁️ **Python ve OpenCV** kullanarak Raspberry Pi destekli bir yüz tanıma ve yoklama sistemi inşa ediyorum.
-- 🎙️ Yapay zeka ve ses işleme (OpenAI Whisper) üzerine AR-GE projelerinde deneyim kazandım.
+- 🎙️ Yapay zeka ve ses işleme üzerine AR-GE projelerinde deneyim kazandım.
 
 ### 🛠️ Teknolojiler ve Araçlar
 **Diller:** 
