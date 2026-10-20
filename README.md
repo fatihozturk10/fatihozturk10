@@ -26,5 +26,5 @@ Yapay zeka, görüntü/ses işleme ve oyun programlama konularına tutkuyla bağ
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### 📫 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SENIN_LINKEDIN_URL_BURAYA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/fatih-%C3%B6zt%C3%BCrk-193085331/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fatih.oztrk10@gmail.com)
